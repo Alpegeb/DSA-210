@@ -73,7 +73,7 @@ The data is available locally and can be demonstrated upon request.
 ## Notes
 - Raw telemetry data is excluded to protect personal location privacy
 - This stage focuses on EDA only; further analysis and modeling will be performed in later milestones
-- 
+
 ## AI Usage Disclosure
 
 AI tools were used for limited support during this project, including code suggestions, debugging assistance, and wording refinement.
