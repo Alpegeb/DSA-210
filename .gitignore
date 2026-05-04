@@ -1,1 +1,9 @@
-teslamate_full_backup.sql
+*.sql
+*.sql.gz
+data/
+*.csv
+*.json
+*.db
+*.sqlite
+.idea/
+.DS_Store
