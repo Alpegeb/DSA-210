@@ -7,3 +7,6 @@ scipy
 scikit-learn
 shapely
 pyproj
+jupyter
+nbconvert
+ipykernel
